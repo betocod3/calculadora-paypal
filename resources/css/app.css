@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contenedor {
+    @apply mx-auto w-[1200px] max-w-[90%]
+}
+
+.version {
+    @apply text-white text-sm md:text-base uppercase border border-white rounded py-2 px-4
+}
+
+.spancito {
+    @apply text-white font-bold ml-4
+}
+
+.inputcito {
+    @apply h-14 rounded w-full px-3 font-bold mt-1
+}

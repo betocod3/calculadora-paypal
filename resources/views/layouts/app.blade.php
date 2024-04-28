@@ -6,7 +6,8 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="preconnect" href="https://fonts.bunny.net">
-    <link href="https://fonts.bunny.net/css?family=poppins:400,700,900" rel="stylesheet" />
+    <link href="https://fonts.bunny.net/css?family=poppins:400,700" rel="stylesheet" />
+    <link rel="shortcut icon" href="{{ asset('ppfee-favicon.avif') }}" type="image/x-icon">
     @vite('resources/css/app.css')
     <title>Calculadora Paypal</title>
 </head>

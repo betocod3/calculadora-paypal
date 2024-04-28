@@ -7,7 +7,7 @@
 }
 
 .version {
-    @apply text-white text-sm md:text-base uppercase border border-white rounded py-2 px-4
+    @apply text-white text-xs lg:text-base uppercase border border-white rounded py-2 px-4
 }
 
 .spancito {

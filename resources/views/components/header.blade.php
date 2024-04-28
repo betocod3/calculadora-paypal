@@ -3,12 +3,8 @@
 
     <nav class="hidden md:flex gap-5 lg:gap-10 text-white text-sm lg:text-base">
         <a href="https://betocodigo.dev/a">betocodigo.dev</a>
-        <a href="https://github.com/">Ver Código en GitHub</a>
+        <a href="https://github.com/">Código en GitHub</a>
     </nav>
 
-    @if(request()->routeIs('livewire-version'))
-        <a href="{{ route('alpine-version') }}" class="version">Ver Versión AlpineJs</a>
-    @else
-        <a href="{{ route('livewire-version') }}" class="version">Ver Versión Livewire</a>
-    @endif
+    <p class="version">Hecho con Laravel y Livewire</p>
 </div>

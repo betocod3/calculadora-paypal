@@ -6,5 +6,5 @@
         <a href="https://github.com/betocodigo/calculadora-paypal" target="_blank">Código en GitHub</a>
     </nav>
 
-    <p class="version">Laravel y Livewire</p>
+    <p class="version">Hecho con Laravel y Livewire</p>
 </div>

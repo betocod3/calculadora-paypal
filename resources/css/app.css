@@ -15,5 +15,5 @@
 }
 
 .inputcito {
-    @apply h-14 rounded w-full px-3 font-bold mt-1
+    @apply h-14 rounded w-full px-3 font-bold mt-1 placeholder-white
 }
